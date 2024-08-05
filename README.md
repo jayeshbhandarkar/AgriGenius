@@ -47,22 +47,23 @@ To do so:-
 ---
 `STEP 6` - Ask questions related to agriculture in the provided input field.
 
-⬤ Please do ⭐ the Repository, if it helped you in anyway.
+---
 
 ## Additional Notes
 
 - The language model used is meta-llama/Llama-2-70b-chat-hf.
 - The application uses the Together API for LLM services.
 - Add your own Together API key in the chat2.py file.
-	```
-	llm = Together(
-    		model="meta-llama/Llama-2-70b-chat-hf",
-    		max_tokens=512,
-    		temperature=0.1,
-    		top_k=1,
-    		together_api_key="YOUR_Together_API_KEY"
-	)
-	```
+  
+```
+llm = Together(
+	model="meta-llama/Llama-2-70b-chat-hf",
+	max_tokens=512,
+	temperature=0.1,
+	top_k=1,
+	together_api_key="YOUR_Together_API_KEY"
+)
+```
 
 - The requirements.txt should include all necessary packages such as Flask, requests, PyPDF2, langchain, chroma, and any other dependencies required by your project.
 
