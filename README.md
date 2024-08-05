@@ -44,10 +44,7 @@ To do so:-
 ---
 `STEP 5` - Open Web-Browser (Chrome) and navigate to `http://127.0.0.1:5000` to use this web-application.
 ```
----
-`STEP 6` - Ask questions related to agriculture in the provided input field.
-```
----
+
 ## Additional Notes
 
 - The language model used is meta-llama/Llama-2-70b-chat-hf.
