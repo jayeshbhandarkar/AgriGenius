@@ -46,6 +46,7 @@ To do so:-
 ```
 
 `STEP 6` - Ask questions related to agriculture in the provided input field..
+```
 
 ## Additional Notes
 
