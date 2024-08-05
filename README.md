@@ -1,7 +1,7 @@
 # AgriGenius: AI-Powered Agriculture Chatbot
 
 ## Project Overview
-AgriGenius: AI-Powered Agriculture Chatbot is a Python web application designed to empower farmers with information accessibility. AgriGenius leverages a Retrieval-Augmented Generation model to address farmers' agricultural queries. The RAG model retrieves the most relevant information from a comprehensive repository of agricultural websites and PDF documents and utilizes that information to generate informative and comprehensive responses tailored to each user's specific question with precise answers.
+AgriGenius: AI-Powered Agriculture Chatbot is a Python web application designed to empower farmers with information accessibility. AgriGenius leverages a Retrieval-Augmented Generation model to address farmer's agricultural queries. The RAG model retrieves the most relevant information from a comprehensive repository of agricultural websites and PDF documents and utilizes that information to generate informative and comprehensive responses tailored to each user's specific question with precise answers.
 
 ## Features
 
