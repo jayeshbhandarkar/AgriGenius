@@ -49,7 +49,8 @@ To do so:-
 
 ---
 
-## UI Screenshot
+## Screenshot
+### Chatbot Interface
 ![Main Interface](static/interface.png)
 
 ## Additional Notes
