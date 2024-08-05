@@ -50,7 +50,7 @@ To do so:-
 ---
 
 ## Screenshot
-### Chatbot Interface
+- ### Chatbot Interface
 ![Main Interface](static/interface.png)
 
 ## Additional Notes
