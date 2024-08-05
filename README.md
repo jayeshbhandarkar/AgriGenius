@@ -49,7 +49,7 @@ To do so:-
 
 ---
 
-## Screenshot
+## UI Screenshot
 ![Main Interface](static/interface.png)
 
 ## Additional Notes
