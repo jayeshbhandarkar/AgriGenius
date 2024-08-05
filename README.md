@@ -50,7 +50,7 @@ To do so:-
 ---
 
 ## Screenshot
-![Main Interface](images/interface.png)
+![Main Interface](static/interface.png)
 
 ## Additional Notes
 
