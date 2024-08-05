@@ -49,6 +49,9 @@ To do so:-
 
 ---
 
+## Screenshot
+![Main Interface](images/interface.png)
+
 ## Additional Notes
 
 - The language model used is meta-llama/Llama-2-70b-chat-hf.
