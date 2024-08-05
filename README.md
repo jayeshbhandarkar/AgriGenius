@@ -44,6 +44,9 @@ To do so:-
 ---
 `STEP 5` - Open Web-Browser (Chrome) and navigate to `http://127.0.0.1:5000` to use this web-application.
 ```
+`STEP 6` - Ask questions related to agriculture in the provided input field.
+
+⬤ Please do ⭐ the Repository, if it helped you in anyway.
 
 ## Additional Notes
 
