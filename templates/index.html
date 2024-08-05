@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link id='favicon' rel="shortcut icon" href="../static/logo.png" type="image/x-png">
+    <title>AgriGenius</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <div class="logo-title">
+                <div class="logo-circle">
+                  <img src="{{ url_for('static', filename='logo.png') }}" alt="AgriGenius Logo" class="logo-image">
+                </div>
+                <h1>AgriGenius</h1>
+            </div>
+        </div>
+        <div class="chat-messages" id="chatPanel">
+            <!-- Messages will be appended here -->
+        </div>
+        <div class="chat-input">
+            <form id="chatbot-form">
+                <input type="text" id="messageText" name="messageText" placeholder="Type your message...">
+                <button id="chatbot-form-btn" type="submit">
+                    <i class="fas fa-paper-plane"></i>
+                </button>
+                <button id="chatbot-form-btn-voice" type="button">
+                    <i class="fas fa-microphone"></i>
+                </button>
+            </form>
+        </div>
+        <div class="chat-footer">
+            <button id="chatbot-form-btn-clear">Clear Chat</button>
+            <div class="voice-reading">
+                <input type="checkbox" id="voiceReadingCheckbox">
+                <label for="voiceReadingCheckbox">Enable voice reading</label>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="{{ url_for('static', filename='js/index.js') }}"></script>
+</body>
+</html>
