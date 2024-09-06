@@ -72,3 +72,5 @@ llm = Together(
 - The requirements.txt should include all necessary packages such as Flask, requests, PyPDF2, langchain, chroma, and any other dependencies required by your project.
 
 ⬤ Please do ⭐ the Repository, if it helped you in anyway.
+
+### 😊 Thankyou !! ✨
